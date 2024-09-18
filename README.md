@@ -32,9 +32,9 @@ https://docs.google.com/presentation/d/1LCFiftKx_s75g7L0-daYIAWMItezOkuvvGjUwW-M
 ## 👨‍💻조원
 조원1 : 로그인, 회원가입, 상세페이지, 전체적인 CSS
 
-이재용 : 장바구니, 관리자(회원, 상품, 주문) , 깃허브, aws배포
+이재용 : 장바구니, 관리자(회원, 상품, 주문) , 깃허브
 
-조원2 : 메인, 상품리스트, 내 정보
+조원2 : 메인, 상품리스트, 내 정보, aws배포
   
 조원3 : 주문, PPT
 
