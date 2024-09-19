@@ -43,7 +43,7 @@ https://docs.google.com/presentation/d/1LCFiftKx_s75g7L0-daYIAWMItezOkuvvGjUwW-M
   
 ## 📌주요기능
 
-
+<!--
 로그인_일반회원&관리자
 
 https://github.com/lee411806/AttiWell/assets/132039579/e85872a4-8541-4c6f-aba7-6e8f42ebfaa0
@@ -98,7 +98,7 @@ https://github.com/lee411806/AttiWell/assets/132039579/d1af641e-963f-4270-b995-a
 
 https://github.com/lee411806/AttiWell/assets/132039579/ecbb0150-e995-45e5-9945-f5cc5a11a6eb
 
-
+-->
  <br><br>장바구니
 
 https://github.com/lee411806/AttiWell/assets/132039579/0597803c-6a61-4ad5-b6ee-26426371bea3
